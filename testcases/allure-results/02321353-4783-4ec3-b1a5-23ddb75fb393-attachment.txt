@@ -1,0 +1,2 @@
+{'name': 'morpheus', 'job': 'leader'}
+b'{"error":"Missing API key"}'
