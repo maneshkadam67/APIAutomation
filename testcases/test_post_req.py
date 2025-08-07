@@ -13,4 +13,8 @@ class Test_Post_Req:
         print(jason_input)
         response = requests.post(url, jason_input)
         print(response.content)
+<<<<<<< HEAD
         assert response.status_code == 201
+=======
+        assert response.status_code == 401
+>>>>>>> 1265467 (second commit)

@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/.idea/PythonPlaywrite.iml" filepath="$PROJECT_DIR$/.idea/PythonPlaywrite.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/.idea/ApiAutomation.iml" filepath="$PROJECT_DIR$/.idea/ApiAutomation.iml" />
+>>>>>>> 1265467 (second commit)
     </modules>
   </component>
 </project>
